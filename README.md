@@ -25,9 +25,9 @@ The tagship will seek out the nearest ship, either player or computer-controlled
 
 ![](gifs/aitag.gif)
 
-## Bonus .gifs
+## Bonus gifs
 
-The background which draws stars as lines between their current position on screen and their last position on screen, which is particularly stunning if the player's ship is allowed to fly fast and free. Here, there are other AI ships with low speeds (for experimenting with different ship parameters) and other debug information is printed.
+The background draws stars as lines between their current position on screen and their last position on screen, which is particularly stunning if the player's ship is allowed to fly fast and free. Here, there are other AI ships with low speeds (for experimenting with different ship parameters) and other debug information is printed.
 
 ![](gifs/lightspeed.gif)
 
